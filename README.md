@@ -1,7 +1,7 @@
 # game-analyze
 
 ## CheckList
-2021. 01. 17.
+- 2021. 01. 17.
 - [x] c
 - [x] python
 - [ ] unity
