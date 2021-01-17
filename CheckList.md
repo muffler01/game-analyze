@@ -1,9 +1,11 @@
 # CheckList
-## 2021. 01. 17.
+## Daily
 - [x] c
 - [x] python
 - [ ] unity
 - [x] baekjoon 2Q
 - [x] baekjoon review
 - [ ] dot
-- [ ] game analyze
+
+## weekly
+- [ ] 1 game analyze 
