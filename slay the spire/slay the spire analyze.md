@@ -13,7 +13,8 @@
   - iOS : 2020. 06. 13.
   
 ## 게임의 핵심 시스템과 구성 요소
-![게임의 핵심 시스템과 구성 요소 개요도](/slay the spire/img/Slay the Spire Info.png)
+![텍스트](https://raw.githubusercontent.com/muffler01/game-analyze/main/slay%20the%20spire/img/Slay%20the%20Spire%20Info.png)
+
 ## 게임 플레이와 재미 요소
 
 ## 유사한 게임
