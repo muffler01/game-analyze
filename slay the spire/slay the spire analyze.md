@@ -1,7 +1,7 @@
 # Slay the Spire Analyze
 
 ## Info.
-![title]9https://github.com/muffler01/game-analyze/blob/main/slay%20the%20spire/img/title.png)
+![title](https://github.com/muffler01/game-analyze/blob/main/slay%20the%20spire/img/title.png)
 - Name : Slay the Spire
 - Dev. : MegaCrit
 - Genres : Roguelike, deck-building
