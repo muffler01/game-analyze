@@ -5,11 +5,11 @@
 - [x] baekjoon 2Q
 - [x] baekjoon review
 - [x] unity
-- [ ] dot
+- [x] dot
 
 ## weekly
 - [ ] 1 game analyze 
 
 ## Memo
 2021년 01월 17일 : 4/**6**, 0/**1** <br>
-2021년 01월 18일 : 5/**6**, 0/**1** <br>
+2021년 01월 18일 : **6**/**6**, 0/**1** <br>
