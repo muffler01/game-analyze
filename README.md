@@ -10,6 +10,8 @@
 - [**게임 UI 디자인 분류**](https://bokyungkim.tistory.com/2)
 - [**User interface design in video games**](https://www.gamasutra.com/blogs/AnthonyStonehouse/20140227/211823/User_interface_design_in_video_games.php)
 - [**Game UI Discoveries: What Players Want**](https://www.gamasutra.com/view/feature/132674/game_ui_discoveries_what_players_.php)
+- [**게임 기획**](https://m.blog.naver.com/kaysa666/220518313629)
+- [**게임 장르의 큰 틀**](https://m.blog.naver.com/kaysa666/220516680061)
 
 ## Marketing
 - [**Game Analyze and Marketing**](https://brunch.co.kr/@woozooin/112)
@@ -22,3 +24,6 @@
 ## Unity
 - [**Unity Tutorial**](https://unity.com/kr/how-to/beginner/5-unity-tutorials-new-game-developers)
 - [**Mesh에 대해서**](https://grayt.tistory.com/171)
+
+## Site
+- [**DevStory, 팡새의 낭만클럽**](https://blog.naver.com/PostList.nhn?blogId=kaysa666&categoryNo=45&logCode=0&categoryName=DevStory)
