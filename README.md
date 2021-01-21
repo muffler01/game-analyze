@@ -26,4 +26,4 @@
 - [**Mesh에 대해서**](https://grayt.tistory.com/171)
 
 ## Site
-- [**DevStory, 팡새의 낭만클럽**](https://blog.naver.com/PostList.nhn?blogId=kaysa666&categoryNo=45&logCode=0&categoryName=DevStory)
+- [**DevStory, 팡새의 낭만클럽**](https://blog.naver.com/PostList.nhn?blogId=kaysa666&skinType=&skinId=&from=menu&userSelectMenu=true)
