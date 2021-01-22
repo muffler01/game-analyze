@@ -1,11 +1,10 @@
 # CheckList
 ## Daily
-- [ ] c
-- [ ] python
-- [ ] baekjoon 2Q
-- [ ] baekjoon review
-- [ ] unity
-- [ ] dot
+- [x] c
+- [x] python
+- [x] baekjoon 2Q
+- [x] baekjoon review
+- [x] unity
 
 ## weekly
 - [ ] 1 game analyze project
@@ -16,4 +15,4 @@
 2021년 01월 19일 : **6**/**6**, 0/**1** <br>
 2021년 01월 20일 : **6**/**6**, 0/**1** <br>
 2021년 01월 21일 : **6**/**6**, 0/**1** <br> 
-2021년 01월 22일 : 0/**6**, 0/**1** <br> 
+2021년 01월 22일 : **5**/**5**, 0/**1** (remove dot) <br> 
