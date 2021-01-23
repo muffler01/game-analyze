@@ -2,9 +2,9 @@
 ## Daily
 - [x] c
 - [x] python
-- [ ] baekjoon 2Q
-- [ ] baekjoon review
-- [ ] unity
+- [x] baekjoon 1Q
+- [x] baekjoon review
+- [] unity
 - [ ] pixel art
 
 ## weekly
