@@ -4,11 +4,11 @@
 - [x] python
 - [x] baekjoon 1Q
 - [x] baekjoon review
-- [] unity
-- [ ] pixel art
+- [x] unity
+- [x] pixel art
 
 ## weekly
-- [ ] 1 game analyze part 1.
+- [ ] 1 game analyze part 2.
 
 ## Memo
 2021년 01월 17일 : 4/**6**, 0/**1** <br>
