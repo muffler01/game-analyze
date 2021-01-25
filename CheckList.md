@@ -1,11 +1,11 @@
 # CheckList
 ## Daily
-- [x] c
-- [x] python
-- [x] baekjoon 1Q
-- [x] baekjoon review
-- [x] unity
-- [x] pixel art
+- [ ] c
+- [ ] python
+- [ ] baekjoon 1Q
+- [ ] baekjoon review
+- [ ] unity
+- [ ] pixel art
 
 ## weekly
 - [ ] 1 game analyze part 2.
@@ -21,3 +21,5 @@
 2021년 01월 22일 : **6**/**6**, 0/**1** <br> 
 2021년 01월 23일 : **6**/**6**, 0/**1** <br> 
 2021년 01월 23일 : **6**/**6**, 0/**1** <br> 
+2021년 01월 24일 : **6**/**6**, 0/**1** <br> 
+2021년 01월 24일 : **6**/**6**, 0/**1** <br> 
