@@ -1,9 +1,9 @@
 # CheckList
 ## Daily
-- [ ] c
-- [ ] python
-- [ ] baekjoon 1Q
-- [ ] baekjoon review
+- [x] c
+- [x] python
+- [x] baekjoon 1Q
+- [x] baekjoon review
 - [ ] unity
 - [ ] pixel art
 
@@ -26,3 +26,5 @@
 2021년 01월 26일 : **6**/**6** <br>
 2021년 01월 27일 : **6**/**6** <br>
 2021년 01월 28일 : **6**/**6** <br>
+2021년 01월 29일 : **6**/**6** <br>
+2021년 01월 30일 : **6**/**6** <br>
