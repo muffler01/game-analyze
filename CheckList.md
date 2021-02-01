@@ -1,16 +1,18 @@
 # CheckList
 ## Daily
 - [ ] c
-- [x] python
-- [x] baekjoon 1Q
-- [x] baekjoon review
-- [ ] unity
+- [ ] baekjoon 1Q (c)
+- [ ] baekjoon 1Q (python)
+- [ ] baekjoon review
+- [ ] unity / c#
 - [ ] pixel art
 
 ## weekly
 
+## monthly
+- [ ] 2D RPG Game Pratice
 
-## Memo
+## Jan.
 2021년 01월 17일 : 4/**6**, 0/**1** <br>
 2021년 01월 18일 : **6**/**6**, 0/**1** <br>
 2021년 01월 19일 : **6**/**6**, 0/**1** <br>
@@ -29,3 +31,6 @@
 2021년 01월 29일 : **6**/**6** <br>
 2021년 01월 30일 : **6**/**6** <br>
 2021년 01월 31일 : **6**/**6** <br>
+
+## Feb.
+2021년 02월 01일 : **6**/**6** 0/**1** (add baekjoon 1Q(c), add 2D RPG Game Pratice, del python) <br>
