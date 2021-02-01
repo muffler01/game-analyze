@@ -31,4 +31,4 @@
 2021년 01월 31일 : **6**/**6**, 0/**0**, 0/**0** <br>
 
 ## Feb.
-2021년 02월 01일 : **4**/**4**, 0/**0**, 0/**0** (add 2D RPG Game Pratice, del python, del c,) <br>
+2021년 02월 01일 : **4**/**4**, 0/**0**, 0/**1** (add 2D RPG Game Pratice, del python, del c,) <br>
