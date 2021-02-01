@@ -2,7 +2,7 @@
 ## Daily
 - [x] baekjoon 1Q (python)
 - [x] baekjoon review
-- [ ] unity / c#
+- [] unity / c#
 - [x] pixel art
 
 ## weekly
