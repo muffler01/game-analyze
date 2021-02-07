@@ -14,6 +14,7 @@
 - [**게임 장르의 큰 틀**](https://m.blog.naver.com/kaysa666/220516680061)
 - [**모바일 게임 해상도 대응**](https://blog.naver.com/feedbackloop/221352247608)
 - [**플랫폼 게임**](https://terms.naver.com/entry.nhn?docId=3572735&cid=59088&categoryId=59096)
+- [**게임기획과 개발**](https://www.slideshare.net/iyooha/ss-39476185)
 
 ## Marketing
 - [**Game Analyze and Marketing**](https://brunch.co.kr/@woozooin/112)
