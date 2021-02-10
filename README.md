@@ -30,7 +30,7 @@
 - [**Unity 만들기 강좌**](https://mrbinggrae.tistory.com/category/Unity%20%EB%A7%8C%EB%93%A4%EA%B8%B0%20%EA%B0%95%EC%A2%8C)
 - [**Unity 2D 기초, 골드메탈**](https://blog.naver.com/gold_metal/220882800191)
 - [**Unity SerializeField, Serializable**](https://m.blog.naver.com/PostView.nhn?blogId=pxkey&logNo=221307184650&proxyReferer=http:%2F%2F211.192.111.50%2Ftm%2F%3Fa%3DWH%26b%3DWIN%26c%3D300013930548%26d%3D32%26e%3D6201%26f%3DbS5ibG9nLm5hdmVyLmNvbS9weGtleS8yMjEzMDcxODQ2NTA%3D%26g%3D1612932012623%26h%3D1612932012407%26y%3D0%26z%3D0%26x%3D1%26w%3D2021-01-29%26in%3D6201_1340_00032326%26id%3D20210210)
-- [**이벤트 함수 호출 순서**](https://docs.unity3d.com/kr/530/Manual/ExecutionOrder.html)
+- [**UnityKR Manual 2019.4 LTS**](https://docs.unity3d.com/kr/2019.4/Manual/UnityManual.html)
 
 ## Site
 - [**DevStory, 팡새의 낭만클럽**](https://blog.naver.com/PostList.nhn?blogId=kaysa666&skinType=&skinId=&from=menu&userSelectMenu=true)
