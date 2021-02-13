@@ -15,6 +15,7 @@
 - [**모바일 게임 해상도 대응**](https://blog.naver.com/feedbackloop/221352247608)
 - [**플랫폼 게임**](https://terms.naver.com/entry.nhn?docId=3572735&cid=59088&categoryId=59096)
 - [**게임기획과 개발**](https://www.slideshare.net/iyooha/ss-39476185)
+- [**Skul: 2D Pixel Game**](https://blogs.unity3d.com/kr/2021/01/21/2d-pixel-perfect-for-a-crisp-conquest-in-skul-the-hero-slayer/)
 
 ## Marketing
 - [**Game Analyze and Marketing**](https://brunch.co.kr/@woozooin/112)
