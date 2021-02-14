@@ -37,3 +37,4 @@
 
 ## Site
 - [**DevStory, 팡새의 낭만클럽**](https://blog.naver.com/PostList.nhn?blogId=kaysa666&skinType=&skinId=&from=menu&userSelectMenu=true)
+- [**Pixel Art Class**](https://www.youtube.com/watch?v=7BWr2tlK-4c&list=PLLdxW--S_0h4dlWUpl-TzBp-ulqK3NiM_&index=1) 
