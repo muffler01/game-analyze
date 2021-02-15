@@ -1,7 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
-using UnityEngine.UI;
+﻿using UnityEngine;
+using System.Collections;
 
 public class FadeCycle : MonoBehaviour
 {
@@ -31,6 +29,8 @@ public class FadeCycle : MonoBehaviour
             animator.SetBool("isCycling", false);
             animator.SetTrigger("FadeOut");
             animatorTitle.SetBool("Up", true);
+
+            GameObject.Find("AudioManager").GetComponent<AudioManager>().BgmPlay();
         }
     }
 }
