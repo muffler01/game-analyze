@@ -28,6 +28,7 @@
 
 ## FUN.
 - [**왜 외국 게임에서는 X가 선택인가?**](https://post.naver.com/viewer/postView.nhn?volumeNo=30477839&memberNo=1523821)
+- [**확률형 아이템**](https://www.youtube.com/watch?v=E-lZeD_-jGY)
 
 ## Unity
 - [**Unity Tutorial**](https://unity.com/kr/how-to/beginner/5-unity-tutorials-new-game-developers)
