@@ -26,6 +26,7 @@
 - [**Game Analyze and Marketing**](https://brunch.co.kr/@woozooin/112)
 - [**KPI 용어 정리**](http://blog.daum.net/jcodeno1best/10?category=868849)
 - [**Game Marketing 용어 정리**](http://blog.daum.net/jcodeno1best/11?category=868849)
+- [**그래도, 크리에이티브**](https://brunch.co.kr/brunchbook/woozooincreativ)
 
 ## FUN.
 - [**왜 외국 게임에서는 X가 선택인가?**](https://post.naver.com/viewer/postView.nhn?volumeNo=30477839&memberNo=1523821)
