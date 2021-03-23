@@ -42,6 +42,7 @@
 - [**UnityKR Manual 2019.4 LTS**](https://docs.unity3d.com/kr/2019.4/Manual/UnityManual.html)
 - [**Unity 게임종료 **](https://blog.naver.com/PostView.nhn?blogId=os2dr&logNo=221536765981&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [**Unity DataTime을 이용한 시간 가져오기**](https://icat2048.tistory.com/445)
+- [**Unity Bolt Platformer Game Tutorial**](https://learn.unity.com/project/bolt-platformer-tutorial)
 
 ## Site
 - [**DevStory, 팡새의 낭만클럽**](https://blog.naver.com/PostList.nhn?blogId=kaysa666&skinType=&skinId=&from=menu&userSelectMenu=true)
