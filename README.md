@@ -40,7 +40,7 @@
 - [**Unity 2D 기초, 골드메탈**](https://blog.naver.com/gold_metal/220882800191)
 - [**Unity SerializeField, Serializable**](https://m.blog.naver.com/PostView.nhn?blogId=pxkey&logNo=221307184650&proxyReferer=http:%2F%2F211.192.111.50%2Ftm%2F%3Fa%3DWH%26b%3DWIN%26c%3D300013930548%26d%3D32%26e%3D6201%26f%3DbS5ibG9nLm5hdmVyLmNvbS9weGtleS8yMjEzMDcxODQ2NTA%3D%26g%3D1612932012623%26h%3D1612932012407%26y%3D0%26z%3D0%26x%3D1%26w%3D2021-01-29%26in%3D6201_1340_00032326%26id%3D20210210)
 - [**UnityKR Manual 2019.4 LTS**](https://docs.unity3d.com/kr/2019.4/Manual/UnityManual.html)
-- [**Unity 게임종료 **](https://blog.naver.com/PostView.nhn?blogId=os2dr&logNo=221536765981&proxyReferer=https:%2F%2Fwww.google.com%2F)
+- [**Unity 게임종료**](https://blog.naver.com/PostView.nhn?blogId=os2dr&logNo=221536765981&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [**Unity DataTime을 이용한 시간 가져오기**](https://icat2048.tistory.com/445)
 - [**Unity Bolt Platformer Game Tutorial**](https://learn.unity.com/project/bolt-platformer-tutorial)
 - [**Unity 외곽선 쉐이더**](https://mingyu0403.tistory.com/144)
