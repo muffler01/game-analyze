@@ -53,3 +53,4 @@
 - [**c언어 기본**](https://www.youtube.com/watch?v=q6fPjQAzll8)
 - [**G식백과**](https://www.youtube.com/channel/UCZ0bi2aVJngKLwFTU5g_fLQ)
 - [**社私로운 블로그**](https://blog.naver.com/PostList.nhn?blogId=hana100494)
+- [**고박사의 유니티노트**(https://www.youtube.com/channel/UCArLLmJohRrA0bt5XAiN0qQ)
